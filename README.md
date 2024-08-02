@@ -1,5 +1,7 @@
 My_nice_gadgets_page
 
+Link for visiting website: niceGadgets[https://ivan-baranovskyi.github.io/My_nice_gadgets_page/]
+
 The project, developed using React, includes several key components and modules that provide the functionality of a web application. The header features a logo, navigation bar, search bar, and buttons for navigating to favorite items and the shopping cart. It uses the Context API to fetch data about favorite and cart items, and it also supports saving the state of favorite items in the browser's local storage.
 
 The loader component is a simple animation displayed during data loading. The navigation bar facilitates navigation between different product categories, such as phones, tablets, and accessories, and it responds to URL changes by highlighting the active menu item. Pagination allows managing product list pages, supporting transitions between pages, and displaying a specific number of products per page.
